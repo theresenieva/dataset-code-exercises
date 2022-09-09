@@ -1,2 +1,6 @@
-{"content": "Hello"}
-{"content": "Goodbye"}
+{
+  "data": [
+    {"content": "Hello"},
+    {"content": "Goodbye"}
+  ]
+}
