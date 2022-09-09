@@ -1,0 +1,3 @@
+{"content": "-- PROBLEM STATEMENT --\n If user input is greater than 0, print \"Jason\". Else,  print \"Tea\" \n-- SOLUTION --\n x = input(\"Enter input \")\n if (x > 0):\n  print(\"Jason\")\n else:\n  print(\"Tea\")"}
+{"content": "-- PROBLEM STATEMENT --\n If user input is less than 1, print \"Larry\". Else,  print \"Cat\" \n-- SOLUTION --\n x = input(\"Enter input \")\n if (x < 1):\n  print(\"Larry\")\n else:\n  print(\"Cat\")"}
+{"content": "-- PROBLEM STATEMENT --\n If user input is equal to 2, print \"Coffee\". Else,  print \"Jason\" \n-- SOLUTION --\n x = input(\"Enter input \")\n if (x == 2):\n  print(\"Coffee\")\n else:\n  print(\"Jason\")"}
