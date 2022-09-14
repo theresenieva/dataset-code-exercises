@@ -8,3 +8,13 @@
 {"content": "-- PROBLEM STATEMENT --\n If user input is greater than 4, print \"Jason\".\n-- SOLUTION --\n x = int(input(\"Enter input \"))\n if (x > 4):\n  print(\"Jason\")"}
 {"content": "-- PROBLEM STATEMENT --\n If user input is less than 2, print \"Larry\".\n-- SOLUTION --\n x = int(input(\"Enter input \"))\n if (x < 2):\n  print(\"Larry\")"}
 {"content": "-- PROBLEM STATEMENT --\n If user input is equal to 1, print \"Rooster\".\n-- SOLUTION --\n x = int(input(\"Enter input \"))\n if (x == 1):\n  print(\"Rooster\")"}
+{"content": "-- PROBLEM STATEMENT --\n If user input is greater than 0, print \"Dog\". Else,  print \"Cat\" \n-- SOLUTION --\n x = int(input(\"Enter input \"))\n if (x > 0):\n  print(\"Dog\")\n else:\n  print(\"Cat\")"}
+{"content": "-- PROBLEM STATEMENT --\n If user input is less than 1, print \"Larry\". Else,  print \"Jason\" \n-- SOLUTION --\n x = int(input(\"Enter input \"))\n if (x < 1):\n  print(\"Larry\")\n else:\n  print(\"Jason\")"}
+{"content": "-- PROBLEM STATEMENT --\n If user input is equal to 2, print \"Coffee\". Else,  print \"Tea\" \n-- SOLUTION --\n x = int(input(\"Enter input \"))\n if (x == 2):\n  print(\"Coffee\")\n else:\n  print(\"Tea\")"}
+{"content": "-- PROBLEM STATEMENT --\n If user input is greater than 1, print \"Coffee\". Else,  print \"Tea\" \n-- SOLUTION --\n x = int(input(\"Enter input \"))\n if (x > 1):\n  print(\"Coffee\")\n else:\n  print(\"Tea\")"}
+{"content": "-- PROBLEM STATEMENT --\n If user input is less than 4, print \"Dog\". Else,  print \"Cat\" \n-- SOLUTION --\n x = int(input(\"Enter input \"))\n if (x < 4):\n  print(\"Dog\")\n else:\n  print(\"Cat\")"}
+{"content": "-- PROBLEM STATEMENT --\n If user input is greater than 0, print \"Alice\". Else,  print \"Bob\" \n-- SOLUTION --\n x = int(input(\"Enter input \"))\n if (x > 0):\n  print(\"Alice\")\n else:\n  print(\"Bob\")"}
+{"content": "-- PROBLEM STATEMENT --\n If user input is less than 1, print \"Larry\". Else,  print \"Jason\" \n-- SOLUTION --\n x = int(input(\"Enter input \"))\n if (x < 1):\n  print(\"Larry\")\n else:\n  print(\"Jason\")"}
+{"content": "-- PROBLEM STATEMENT --\n If user input is equal to 2, print \"Coffee\". Else,  print \"Tea\" \n-- SOLUTION --\n x = int(input(\"Enter input \"))\n if (x == 2):\n  print(\"Coffee\")\n else:\n  print(\"Tea\")"}
+{"content": "-- PROBLEM STATEMENT --\n If user input is greater than 1, print \"Coffee\". Else,  print \"Tea\" \n-- SOLUTION --\n x = int(input(\"Enter input \"))\n if (x > 1):\n  print(\"Coffee\")\n else:\n  print(\"Tea\")"}
+{"content": "-- PROBLEM STATEMENT --\n If user input is less than 4, print \"Bob\". Else,  print \"Alice\" \n-- SOLUTION --\n x = int(input(\"Enter input \"))\n if (x < 4):\n  print(\"Bob\")\n else:\n  print(\"Alice\")"}
